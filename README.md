@@ -1,8 +1,3 @@
-settings.json  
+wel comme to our class
+this is gitbasics projects class
 
-app.config
-
- fam.html
- 
- eri.com
- 
