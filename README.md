@@ -1,3 +1,4 @@
-wel comme to our class
-this is gitbasics projects class
+wel comme to our class.
+
+this is gitbasics projects class.
 
